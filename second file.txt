@@ -1,1 +1,2 @@
 test second file - 3rd rev
+This is commit from feature A branch
