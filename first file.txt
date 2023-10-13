@@ -1,2 +1,3 @@
 test first file - 2nd rev
 commit in feature C
+2nd commit in feature C
